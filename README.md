@@ -17,4 +17,4 @@
 ## Vamos testar como colar imagens aqui no README:
 
 Esta é a primeira imagem que vou colocar:
-![Gráfico APGAR5](imagens/Contagem_de_APGAR5.png)
+![Gráfico APGAR5](imagens/Contagem de APGAR5 médio por consultas.png)
