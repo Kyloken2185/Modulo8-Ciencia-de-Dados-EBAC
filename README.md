@@ -13,3 +13,8 @@
 
 
 ## Aqui estou escrevendo um texto para saber qual é o tamanho da fonte se eu usar duas hashtags
+
+## Vamos testar como colar imagens aqui no README:
+
+Esta é a primeira imagem que vou colocar:
+![Contagem de APGAR5 médio por consultas.png](/home/marco/Modulo8-Ciencia-de-Dados-EBAC/imagens/Contagem de APGAR5 médio por consultas.png)
