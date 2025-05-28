@@ -8,8 +8,14 @@
 ### Gráfico com a contagem de APGAR5 médio por consultas
 
 ## Na segunda análise, construímos boxplots da idade das mães e do peso dos bebês assim como os histogramas dos mesmos dados.
+
+![Gráfico Peso do bebê](imagens/histograma_peso_bebe.png)
+### Histograma do peso dos bebês
+
 ## Na terceira e última análise, fizemos um gráfico de distribuição de APGAR5 por tempo de gestação e sexo, uma tabela cruzada usando o tempo de gestação e as categorias de APGAR5, gráfico de barras e boxplots construídos com os mesmos dados mencionados. 
 
+![Gráfico Peso versus APGAR5](imagens/distribuicao_peso_bebe_cat_apgar5.png)
+### Boxplot do peso dos bebês e as categorias de APGAR5
 
 
 
