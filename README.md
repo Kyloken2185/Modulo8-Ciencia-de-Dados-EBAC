@@ -17,6 +17,8 @@
 ![Gráfico Peso versus APGAR5](imagens/distribuicao_peso_bebe_cat_apgar5.png)
 ### Boxplot do peso dos bebês e as categorias de APGAR5
 
+## Esperamos que esta análise seja produtiva para a suas conclusões e sirva para que o atendimento aos bebês e suas mães sejam melhorados, de acordo com as necessidades de cada caso.
+
 
 
 
