@@ -1,4 +1,4 @@
-# “Análises feitas no módulo 8 do curso de Ciência de Dados da EBAC sobre saúde neonatal e perfil socioeconômico das mães”
+# Análises feitas no módulo 8 do curso de Ciência de Dados da EBAC sobre saúde neonatal e perfil socioeconômico das mães
 
 ## Nos seguintes arquivos, estão apresentadas algumas análises sobre a saúde de bebês recém-nascidos e as situações sociais e econômicas de suas mães.
 
